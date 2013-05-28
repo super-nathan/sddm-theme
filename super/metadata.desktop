@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Super
+Description=Super Theme
+Author=Abdurrahman AVCI
+Copyright=(c) 2013, Abdurrahman AVCI
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=Super.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Email=abdurrahmanavci@gmail.com
+Theme-Id=super
+Theme-API=1.1
